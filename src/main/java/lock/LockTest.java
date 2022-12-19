@@ -8,9 +8,10 @@ import java.util.concurrent.locks.ReentrantLock;
 
 import static jdk.nashorn.internal.runtime.regexp.joni.Config.log;
 
+
 public class LockTest {
 
-
+    //GitHub push test
     public static void main(String[] args) {
         Lock rq=new ReentrantLock();
 
